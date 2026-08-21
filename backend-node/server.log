@@ -1,0 +1,3 @@
+🚀 Aegis Backend running on http://localhost:8080
+📋 Health check: http://localhost:8080/health
+🔐 Auth endpoints: POST /api/v1/auth/register, POST /api/v1/auth/login
